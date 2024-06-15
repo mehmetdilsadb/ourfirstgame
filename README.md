@@ -1,5 +1,5 @@
 # ourfirstgame
-Pacman Game with Raylib Library
+Pacman Game with Raylib Library                  
 This project is a Pacman game developed using the Raylib library, created by first-year university students.
 
 Description    
